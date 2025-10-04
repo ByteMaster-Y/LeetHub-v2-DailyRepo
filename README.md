@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ByteMaster-Y/LeetHub-v2-DailyRepo/tree/master/0002-add-two-numbers) |
 | [1642-water-bottles](https://github.com/ByteMaster-Y/LeetHub-v2-DailyRepo/tree/master/1642-water-bottles) |
 ## Simulation
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ByteMaster-Y/LeetHub-v2-DailyRepo/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ByteMaster-Y/LeetHub-v2-DailyRepo/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/ByteMaster-Y/LeetHub-v2-DailyRepo/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
